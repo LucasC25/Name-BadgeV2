@@ -1,0 +1,4 @@
+Added Component: Designator=M1(Magnet)
+Added Component: Designator=M2(Magnet)
+Added Member To Class: ClassName=NB_Bagde Member=Component M1 Magnet
+Added Member To Class: ClassName=NB_Bagde Member=Component M2 Magnet

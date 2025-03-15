@@ -1,0 +1,105 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 2.94400224 4.10185616 0 N MP4 M3 ;0=1,1=5.0000
+PRP Category 'REDCUBE SMT'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/7466303R?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/7466303R?ad'
+PRP Height '5mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '7466303R'
+PRP Match_Code 'WP-SMRA'
+PRP Material 'Brass'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '150°„C'
+PRP Operating_Temperature_Min '-55°„C'
+PRP Packaging 'Tape and Reel'
+PRP Rated_Current '50A'
+PRP Surface 'Tin'
+PRP Thread_Size 'M3'
+TOP 0 1.5940024 2.50185682 270 N 0 4 1
+TOP 1 4.29400208 2.50185682 270 N 0 5 1
+TOP 2 4.29400208 5.7018555 270 N 0 6 1
+TOP 3 1.5940024 5.7018555 270 N 0 7 1
+#
+# CMP 1
+CMP 1 34.94000124 4.10185616 0 N MP3 M3 ;0=1,1=5.0000
+PRP Category 'REDCUBE SMT'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/7466303R?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/7466303R?ad'
+PRP Height '5mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '7466303R'
+PRP Match_Code 'WP-SMRA'
+PRP Material 'Brass'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '150°„C'
+PRP Operating_Temperature_Min '-55°„C'
+PRP Packaging 'Tape and Reel'
+PRP Rated_Current '50A'
+PRP Surface 'Tin'
+PRP Thread_Size 'M3'
+TOP 0 33.5900014 2.50185682 270 N 0 0 1
+TOP 1 36.29000108 2.50185682 270 N 0 1 1
+TOP 2 36.29000108 5.7018555 270 N 0 2 1
+TOP 3 33.5900014 5.7018555 270 N 0 3 1
+#
+# CMP 2
+CMP 0 18.90000284 2.30187754 180 N J1 687124182122 ;0=1,1=1.0600
+PRP Category 'FPC Connectors'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/687124182122?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/687124182122?ad'
+PRP Contact_Resistance '30m¶∏'
+PRP Height '0.96mm'
+PRP Length '14mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '687124182122'
+PRP Match_Code 'WR-FPC'
+PRP Mount 'Surface Mount'
+PRP Number_of_Pins '24'
+PRP Operating_Temperature_Max '85°„C'
+PRP Operating_Temperature_Min '-55°„C'
+PRP Orientation 'Horizontal'
+PRP Packaging 'Tape and Reel'
+PRP Pitch '0.5mm'
+PRP Rated_Current '0.5A'
+PRP Width '3.7mm'
+PRP Working_Voltage '50VAC'
+TOP 0 13.15001434 1.2018772 0 N 24 2 1
+TOP 1 13.65001334 1.2018772 0 N 23 4 2
+TOP 2 14.15001488 1.2018772 0 N 22 4 3
+TOP 3 14.65001388 1.2018772 0 N 21 4 4
+TOP 4 15.15001542 1.2018772 0 N 20 4 5
+TOP 5 15.65001442 1.2018772 0 N 19 3 6
+TOP 6 16.15001342 1.2018772 0 N 18 4 7
+TOP 7 16.65001496 1.2018772 0 N 17 4 8
+TOP 8 17.15001396 1.2018772 0 N 16 4 9
+TOP 9 17.6500155 1.2018772 0 N 15 3 10
+TOP 10 18.1500145 1.2018772 0 N 14 4 11
+TOP 11 18.65001604 1.2018772 0 N 13 4 12
+TOP 12 19.15001504 1.2018772 0 N 12 4 13
+TOP 13 19.65001658 1.2018772 0 N 11 4 14
+TOP 14 20.15001558 1.2018772 0 N 10 4 15
+TOP 15 20.65001712 1.2018772 0 N 9 4 16
+TOP 16 21.15001612 1.2018772 0 N 8 4 17
+TOP 17 21.65001512 1.2018772 0 N 7 4 18
+TOP 18 22.15001412 1.2018772 0 N 6 4 19
+TOP 19 22.65001566 1.2018772 0 N 5 4 20
+TOP 20 23.15001466 1.2018772 0 N 4 4 21
+TOP 21 23.6500162 1.2018772 0 N 3 4 22
+TOP 22 24.1500152 1.2018772 0 N 2 4 23
+TOP 23 24.65001674 1.2018772 0 N 1 3 24
+TOP 24 12.1500138 3.70187728 0 N 0 9 M1
+TOP 25 25.65001728 3.70187728 0 N 0 8 M2
+#

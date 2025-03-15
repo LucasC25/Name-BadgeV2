@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Lihui Chen\Documents\GitHub\NameBadge-Badge\.\Project Output for NB_Badge-v1\Pick Place\Pick Place for NB_Bagde(v1).csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/08/24
+Time:       22:08
+Revision:   203eaaacfc76e6571f8278d4edb44cd7e4884601
+Variant:    v1
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"M2","Magnet","TopLayer","Magnet","34.9000","3.2000","0","Magnet 3x2mm"
+"M1","Magnet","TopLayer","Magnet","3.0000","3.2000","0","Magnet 3x2mm"
+"TP12","Test_Point","TopLayer","Test_Point","17.6500","6.0519","270","Test Point"
+"MP4","M3","BottomLayer","7466303","2.9440","4.1019","180","WP-SMRA REDCUBE SMT Right Angled without pins, M3, 50A"
+"MP3","M3","BottomLayer","7466303","34.9400","4.1019","180","WP-SMRA REDCUBE SMT Right Angled without pins, M3, 50A"
+"TP24","Test_Point","TopLayer","Test_Point","32.6500","6.0519","270","Test Point"
+"TP23","Test_Point","TopLayer","Test_Point","32.6500","8.5519","270","Test Point"
+"TP22","Test_Point","TopLayer","Test_Point","30.1500","6.0519","270","Test Point"
+"TP21","Test_Point","TopLayer","Test_Point","30.1500","8.5519","270","Test Point"
+"TP20","Test_Point","TopLayer","Test_Point","27.6500","6.0519","270","Test Point"
+"TP19","Test_Point","TopLayer","Test_Point","27.6500","8.5519","270","Test Point"
+"TP18","Test_Point","TopLayer","Test_Point","25.1500","6.0519","270","Test Point"
+"TP17","Test_Point","TopLayer","Test_Point","25.1500","8.5519","270","Test Point"
+"TP16","Test_Point","TopLayer","Test_Point","22.6500","6.0519","270","Test Point"
+"TP15","Test_Point","TopLayer","Test_Point","22.6500","8.5519","270","Test Point"
+"TP14","Test_Point","TopLayer","Test_Point","20.1500","6.0519","270","Test Point"
+"TP13","Test_Point","TopLayer","Test_Point","20.1500","8.5519","270","Test Point"
+"TP11","Test_Point","TopLayer","Test_Point","17.6500","8.5519","270","Test Point"
+"TP10","Test_Point","TopLayer","Test_Point","15.1500","6.0519","270","Test Point"
+"TP9","Test_Point","TopLayer","Test_Point","15.1500","8.5519","270","Test Point"
+"TP8","Test_Point","TopLayer","Test_Point","12.6500","6.0519","270","Test Point"
+"TP7","Test_Point","TopLayer","Test_Point","12.6500","8.5519","270","Test Point"
+"TP6","Test_Point","TopLayer","Test_Point","10.1500","6.0519","270","Test Point"
+"TP5","Test_Point","TopLayer","Test_Point","10.1500","8.5519","270","Test Point"
+"TP4","Test_Point","TopLayer","Test_Point","7.6500","6.0519","270","Test Point"
+"TP3","Test_Point","TopLayer","Test_Point","7.6500","8.5519","270","Test Point"
+"TP2","Test_Point","TopLayer","Test_Point","5.1500","6.0519","270","Test Point"
+"TP1","Test_Point","TopLayer","Test_Point","5.1500","8.5519","180","Test Point"
+"J1","687124182122","BottomLayer","687124182122","18.9000","2.4519","0","WR-FPC SMT ZIF Horizontal Dual Contact, pitch 0.5mm, Horizontal, 24pins"
