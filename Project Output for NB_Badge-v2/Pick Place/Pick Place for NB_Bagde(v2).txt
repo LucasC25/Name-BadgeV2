@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Github\Name-BadgeV2\.\Project Output for NB_Badge-v2\Pick Place\Pick Place for NB_Bagde(v2).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/04/25
+Time:       21:55
+Revision:   d77ac252e0421b601eab34060d7d37970d567d73
+Variant:    v2
+Units used: mm
+
+Designator Comment        Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                                                               
+TP13       Test_Point_2MM TopLayer Test_Point_2mm 31.8000      10.1000      180      "Test Point"                                                              
+M4         Magnet         TopLayer Magnet         10.0000      32.0000      0        "Magnet 3x2mm"                                                            
+M3         Magnet         TopLayer Magnet         10.0000      3.5000       0        "Magnet 3x2mm"                                                            
+M2         Magnet         TopLayer Magnet         61.0000      32.0000      90       "Magnet 3x2mm"                                                            
+M1         Magnet         TopLayer Magnet         61.0000      3.5000       90       "Magnet 3x2mm"                                                            
+TP12       Test_Point_2MM TopLayer Test_Point_2mm 35.3000      14.1000      90       "Test Point"                                                              
+TP24       Test_Point_2MM TopLayer Test_Point_2mm 14.3000      14.1000      90       "Test Point"                                                              
+TP23       Test_Point_2MM TopLayer Test_Point_2mm 14.3000      10.1000      90       "Test Point"                                                              
+TP22       Test_Point_2MM TopLayer Test_Point_2mm 17.8000      14.1000      90       "Test Point"                                                              
+TP21       Test_Point_2MM TopLayer Test_Point_2mm 17.8000      10.1000      90       "Test Point"                                                              
+TP20       Test_Point_2MM TopLayer Test_Point_2mm 21.3000      14.1000      90       "Test Point"                                                              
+TP19       Test_Point_2MM TopLayer Test_Point_2mm 21.3000      10.1000      90       "Test Point"                                                              
+TP18       Test_Point_2MM TopLayer Test_Point_2mm 24.8000      14.1000      90       "Test Point"                                                              
+TP17       Test_Point_2MM TopLayer Test_Point_2mm 24.8000      10.1000      90       "Test Point"                                                              
+TP16       Test_Point_2MM TopLayer Test_Point_2mm 28.3000      14.1000      90       "Test Point"                                                              
+TP15       Test_Point_2MM TopLayer Test_Point_2mm 28.3000      10.1000      90       "Test Point"                                                              
+TP14       Test_Point_2MM TopLayer Test_Point_2mm 31.8000      14.1000      90       "Test Point"                                                              
+TP11       Test_Point_2MM TopLayer Test_Point_2mm 35.3000      10.1000      90       "Test Point"                                                              
+TP10       Test_Point_2MM TopLayer Test_Point_2mm 38.8000      14.1000      90       "Test Point"                                                              
+TP9        Test_Point_2MM TopLayer Test_Point_2mm 38.8000      10.1000      90       "Test Point"                                                              
+TP8        Test_Point_2MM TopLayer Test_Point_2mm 42.3000      14.1000      90       "Test Point"                                                              
+TP7        Test_Point_2MM TopLayer Test_Point_2mm 42.3000      10.1000      90       "Test Point"                                                              
+TP6        Test_Point_2MM TopLayer Test_Point_2mm 45.8000      14.1000      90       "Test Point"                                                              
+TP5        Test_Point_2MM TopLayer Test_Point_2mm 45.8000      10.1000      90       "Test Point"                                                              
+TP4        Test_Point_2MM TopLayer Test_Point_2mm 49.3000      14.1000      90       "Test Point"                                                              
+TP3        Test_Point_2MM TopLayer Test_Point_2mm 49.3000      10.1000      90       "Test Point"                                                              
+TP2        Test_Point_2MM TopLayer Test_Point_2mm 52.8000      14.1000      90       "Test Point"                                                              
+TP1        Test_Point_2MM TopLayer Test_Point_2mm 52.8000      10.1000      0        "Test Point"                                                              
+J1         687124182122   TopLayer 687124182122   66.9500      17.7500      90       "WR-FPC SMT ZIF Horizontal Dual Contact, pitch 0.5mm, Horizontal, 24pins" 

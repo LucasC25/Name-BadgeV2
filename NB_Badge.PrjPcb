@@ -169,6 +169,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=NB_Badgev2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=4CFFA1CE-AA51-4504-8D3C-2493049D81AB
 Description=v2
@@ -186,982 +203,1338 @@ VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_bot\components
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_top\components
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_bot\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\eda\data
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Design Rule Check - NameBadges_Badge_Side.html
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for NB_Badge\Design Rule Check - NB_Bagde.html
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_layer\features
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Design Rule Check - NameBadges_Badge_Side.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_overlay\features
+DocumentPath=Project Outputs for NB_Badge\Design Rule Check - NB_Bagde.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_paste\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_solder\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_bot\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_top\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\dielectric_1\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_layer\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_overlay\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_paste\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_solder\features
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\matrix\matrix
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.DRR
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.DRR
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\NameBadges_Badge_Side.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBL
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBO
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBP
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\dielectric_1\features
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBS
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GM
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTL
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTO
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTP
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTS
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.LDP
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.LDP
+DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\Gerber\NameBadges_Badge_Side.REP
+DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.REP
+DocumentPath=Project Outputs for Free Documents\Gerber\NameBadges_Badge_Side.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.TXT
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.TXT
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Legend_Bot.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Legend_Top.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GM
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Paste_Bot.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Paste_Top.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Profile.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Output for NB_Badge-v1\ExportSTEP\NB_Badge-v1.step
+DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Output for NB_Badge-v1\ExportSTEP\NB_Badge-v1.x_t
+DocumentPath=Project Outputs for Free Documents\Gerber\NameBadges_Badge_Side.REP
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.1
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side.REP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.1
+DocumentPath=Project Outputs for Free Documents\NC Drill\NameBadges_Badge_Side.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.1
+DocumentPath=Project Outputs for NameBadges_Badge_Side\NC Drill\NameBadges_Badge_Side.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.1
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.1
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.DRR
+DocumentPath=Project Outputs for NameBadges_Badge_Side\Gerber\NameBadges_Badge_Side_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.DRR
+DocumentPath=Project Output for NB_Badge-v1\ExportSTEP\NB_Badge-v1.step
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\ExportSTEP\NB_Badge-v1.x_t
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.EXTREP
+DocumentPath=.\Project Output for NB_Badge-v2\ExportSTEP\NB_Badge-v2.step
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.EXTREP
+DocumentPath=.\Project Output for NB_Badge-v2\ExportSTEP\NB_Badge-v2.x_t
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.EXTREP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.EXTREP
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.EXTREP
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBL
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBL
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.1
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBL
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBL
+DocumentPath=.\Project Output for NB_Badge-v2\NC Drill\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBL
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBL
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBO
+DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBO
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBP
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBP
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBP
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBP
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBS
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBS
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBS
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBS
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBS
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBS
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GD1
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GD1
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GD1
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GD1
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GD1
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GG1
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GG1
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GG1
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GG1
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GG1
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GKO
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GKO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GKO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GKO
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GKO
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument113]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument114]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GM
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument115]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM1
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument116]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM1
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument117]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM1
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument118]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM1
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument119]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM1
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument120]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM2
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument121]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM2
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument122]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM2
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument123]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM2
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument124]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM2
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument125]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM3
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument126]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM3
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument127]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM3
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument128]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM3
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument129]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM3
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument130]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM4
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument131]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM4
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument132]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM4
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument133]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM4
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument134]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM4
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument135]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM11
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument136]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM11
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument137]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM11
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument138]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM11
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument139]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM11
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument140]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM12
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument141]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM12
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument142]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM12
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument143]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM12
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument144]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM12
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument145]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM13
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument146]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM13
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument147]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM13
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument148]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM13
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument149]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM13
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument150]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM14
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument151]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM14
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument152]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM14
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GM
 DItemRevisionGUID=
 
 [GeneratedDocument153]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM14
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument154]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM14
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument155]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM15
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument156]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM15
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument157]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM15
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument158]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM15
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument159]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM15
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument160]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM16
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument161]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM16
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument162]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM16
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument163]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM16
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument164]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM16
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument165]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM17
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument166]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM17
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument167]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM17
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument168]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM17
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument169]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM17
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument170]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM20
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument171]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM20
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument172]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM20
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument173]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM20
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument174]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM20
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument175]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GML
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument176]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GML
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument177]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GML
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument178]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GML
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument179]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GML
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument180]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GPB
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument181]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GPB
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument182]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GPB
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument183]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GPB
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument184]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GPB
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument185]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GPT
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument186]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GPT
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument187]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GPT
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument188]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GPT
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument189]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GPT
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument190]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTL
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument191]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTL
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument192]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTL
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument193]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTL
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument194]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTL
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument195]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTL
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument196]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTO
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument197]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTO
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument198]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTO
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument199]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTO
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument200]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument201]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTO
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument202]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument203]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTP
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument204]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTP
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument205]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTP
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument206]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTP
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument207]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument208]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTS
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument209]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTS
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument210]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTS
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument211]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTS
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument212]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTS
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument213]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTS
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument214]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument215]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument216]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.LDP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument217]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.LDP
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument218]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument219]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument220]
-DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument221]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.LDP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument222]
-DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument223]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.REP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument224]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.REP
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument225]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument226]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument227]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument228]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument229]
-DocumentPath=Project Output for NB_Badge-v1\ODB\NB_Bagde.REP
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM17
 DItemRevisionGUID=
 
 [GeneratedDocument230]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.REP
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument231]
-DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.TXT
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument232]
-DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.TXT
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument233]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.TXT
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument234]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.TXT
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument235]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.TXT
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument236]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.TXT
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument237]
-DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.TXT
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument238]
-DocumentPath=Project Outputs for NB_Badge\NB_Bagde.TXT
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument239]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument240]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\Pick Place for NB_Bagde(v1).txt
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument241]
-DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\Pick Place for NB_Bagde(v1).txt
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument242]
-DocumentPath=Project Output for NB_Badge-v1\Pick Place\Pick Place for NB_Bagde(v1).txt
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument243]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\profile
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GML
 DItemRevisionGUID=
 
 [GeneratedDocument244]
-DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\stephdr
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument245]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument246]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument247]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument248]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument249]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument250]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument251]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument252]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument253]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument254]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument255]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument256]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument257]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument258]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument259]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument260]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument261]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument262]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument263]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument264]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument265]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument266]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument267]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument268]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument269]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument270]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument271]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument272]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument273]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument274]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument275]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument276]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument277]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument278]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument279]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument280]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument281]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument282]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument283]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument284]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument285]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument286]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument287]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument288]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument289]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument290]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument291]
+DocumentPath=.\Project Output for NB_Badge-v2\NC Drill\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument292]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument293]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument294]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument295]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument296]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument297]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument298]
+DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument299]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument300]
+DocumentPath=.\Project Output for NB_Badge-v2\Gerber\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument301]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument302]
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument303]
+DocumentPath=Project Output for NB_Badge-v1\Gerber\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument304]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument305]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument306]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument307]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument308]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument309]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument310]
+DocumentPath=Project Output for NB_Badge-v1\ODB\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument311]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.REP
+DItemRevisionGUID=
+
+[GeneratedDocument312]
+DocumentPath=.\Project Output for NB_Badge-v2\NB_Badge-v2-Manufacturing Folder\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument313]
+DocumentPath=.\Project Output for NB_Badge-v2\NC Drill\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument314]
+DocumentPath=Project Output for NB_Badge-v1\Manufactruing Folder\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument315]
+DocumentPath=Project Output for NB_Badge-v1\Manufacturing Folder\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument316]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument317]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing Folder\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument318]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument319]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing Folder\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument320]
+DocumentPath=Project Output for NB_Badge-v1\NC Drill\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument321]
+DocumentPath=Project Outputs for NB_Badge\NB_Bagde.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument322]
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument323]
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument324]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1-Manufacturing BOM Pick Place\Pick Place for NB_Bagde(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument325]
+DocumentPath=Project Output for NB_Badge-v1\NB_Badge-v1 Manufacturing BOM Pick Place\Pick Place for NB_Bagde(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument326]
+DocumentPath=Project Output for NB_Badge-v1\Pick Place\Pick Place for NB_Bagde(v1).txt
+DItemRevisionGUID=
+
+[GeneratedDocument327]
+DocumentPath=.\Project Output for NB_Badge-v2\Pick Place\Pick Place for NB_Bagde(v2).csv
+DItemRevisionGUID=
+
+[GeneratedDocument328]
+DocumentPath=.\Project Output for NB_Badge-v2\Pick Place\Pick Place for NB_Bagde(v2).txt
+DItemRevisionGUID=
+
+[GeneratedDocument329]
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument330]
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument331]
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument332]
+DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument333]
+DocumentPath=.\Project Output for NB_Badge-v2\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+DItemRevisionGUID=
+
+[GeneratedDocument334]
 DocumentPath=Project Output for NB_Badge-v1\ODB\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 DItemRevisionGUID=
 
